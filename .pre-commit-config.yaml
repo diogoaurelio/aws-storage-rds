@@ -1,0 +1,4 @@
+- repo: git://github.com/diogoaurelio/pre-commit-terraform
+  sha: v1.7.3
+  hooks:
+    - id: terraform_fmt
